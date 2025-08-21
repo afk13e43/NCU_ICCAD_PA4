@@ -1,0 +1,4 @@
+主要檔案113522090_PA4.cpp
+最終成效是全班第一(面積 跟 連線Cost)
+題目在doc/2025Spring_EE6094_CAD_PA4_Analog_Placement_20250506_0103
+使用B*tree與SA達成題目要求
